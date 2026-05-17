@@ -24,14 +24,14 @@ apis:
     properties:
       - type: Documentation
         url: https://github.com/fullstorydev/grpcurl#readme
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/fullstorydev/grpcurl
 common:
   - type: Website
     url: https://github.com/fullstorydev/grpcurl
   - type: Documentation
     url: https://github.com/fullstorydev/grpcurl#readme
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/fullstorydev/grpcurl
 maintainers:
   - FN: Kin Lane
