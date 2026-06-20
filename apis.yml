@@ -3,7 +3,7 @@ name: Grpcurl
 description: >-
   grpcurl is an open source command-line tool for interacting with gRPC servers, like curl for gRPC with support for service reflection and JSON encoding.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Command Line Interface
   - gRPC
