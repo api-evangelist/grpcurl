@@ -39,6 +39,13 @@ apis:
       - type: GitHubRepository
         url: https://github.com/fullstorydev/grpcurl
 common:
+  - type: IssueTracker
+    url: https://github.com/fullstorydev/grpcurl/issues
+  - type: Releases
+    url: https://github.com/fullstorydev/grpcurl/releases
+  - type: License
+    name: MIT
+    url: https://github.com/fullstorydev/grpcurl/blob/master/LICENSE
   - type: Website
     url: https://github.com/fullstorydev/grpcurl
   - type: Documentation
